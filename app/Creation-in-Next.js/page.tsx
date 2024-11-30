@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Navbar from "../Navbar";
+import Navbar from "@/app/Navbar";
 
 
 function Creations() {
