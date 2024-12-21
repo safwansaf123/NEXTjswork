@@ -32,7 +32,7 @@ export default function Home() {
 <Link href='/HOOKS'>      <h5> 16- HOOKS and its TYPES  </h5>  </Link>
 <Link href='/SanityCMS'>      <h5> 17- SANITY CMS  </h5>  </Link>
 <Link href='/studio'>      <h5> 18- SANITY STUDIO  </h5>  </Link>
-
+<Link href='/GITHUBupload'>      <h5> 19- GITHUBupload  </h5>  </Link>
 
 
 <Header profile='safwan ahmed' />
