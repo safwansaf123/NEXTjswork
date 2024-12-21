@@ -12,6 +12,7 @@ function Definations() {
   <h3> DEFINATIONS</h3>
   
 <h2> A FUNCTION created above is called COMPONENT </h2>
+<h2>every component in react is by default server</h2>
 <h2> A FUNCTION who return a HTML is called a component of REACT or next js</h2>
 <h2> a peice of code where it can run or execute called component </h2>
 <h2>  next-js component based articheture </h2>
@@ -88,6 +89,7 @@ It acts as a container for other HTML elements, allowing you to group them toget
 <h2>and when this rendering done on SERVER is called </h2><h3>SERVER SITE RENDERING</h3>
 <h2>Build is run on server or rendering done on server, server already has more RAM more power , easily serached, SEO increased,  </h2>
 <h3>by default rendering on next js is server site </h3>
+<h2>every component in react is server by default</h2>
 
 <h2>STATIC SITE RENDERING (SSR)   rendering </h2>
 
@@ -99,14 +101,15 @@ It acts as a container for other HTML elements, allowing you to group them toget
 <h2>relative part ../  or  ./about/def</h2>
 <h2>JSX is markup language means data in angle bracket <></> </h2>
 <h2>jsx requiremnt is open tag and close tag</h2>
-
+<br />
 <h2>DOM is run in browser</h2>
 <h2>in JSX file HTML is written by nextjs or react </h2>
 <h2>we write our program but next js writes HTML in background to run websites</h2>
 <h2>DECLARATIVE APPROACH = some one is behind the scene who operates </h2>
 <h2>IMPERATRIVE APPROACH = every single qoute OR code is define by USER </h2>
 <h2>React is declarative programing  run by its own not depended on user </h2>
-
+<h4>REAL DOM   where data is displayed</h4>
+<h4>VIRTUAL DOM  where data is build not displayed this is for checking</h4>
 
 <h2>npx shadcn@latest</h2>
 <h2>it is react next.js library</h2>

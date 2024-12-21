@@ -22,7 +22,12 @@ h2{
 }
 
 h5{
-  color: rgb(182, 63, 172);
+
+  color: chocolate;
+  text-decoration: chartreuse;
+  text-shadow: color(from color srgb r g b);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
 }
 
 h6 {
@@ -33,3 +38,4 @@ h6 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+
